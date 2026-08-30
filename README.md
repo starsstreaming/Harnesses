@@ -14,4 +14,4 @@
 ## 仓库内笔记
 
 - [Grok Build 入门教程](Grok%20Build/L0%EF%BC%9AGrok%20Build%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md)
-- [Grok Build 核心机制](Grok%20Build/L1%EF%BC%：Grok%20Build%20%E6%A0%B8%E5%BF%83%E6%9C%BA%E5%88%B6.md)
+- [Grok Build 核心机制](Grok%20Build/L1%EF%BC%9AGrok%20Build%20%E6%A0%B8%25E5%BF%83%E6%9C%BA%25E5%88%25B6.md)
